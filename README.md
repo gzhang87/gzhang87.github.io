@@ -1,5 +1,6 @@
-hankquinlan.github.io
+gzhang.github.io
 =====================
-This is demo data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub and Jekyll. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
+This is a personal web page which is based on [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) developed by [Jonathan McGlone](http://jmcglone.com) to creating and hosting a personal website using GitHub and Jekyll. 
+Thanks Jonathan McGlone!
 
-Users are free to copy and re-use any and all of the code contained here without contacting me.
+Following the words of Jonathan McGlone that "Users are free to copy and re-use any and all of the code contained here without contacting me." Enjoy!
